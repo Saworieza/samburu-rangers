@@ -448,7 +448,10 @@ a:hover, a:active {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5a00', endColorstr='#ff3600',GradientType=1 ); /* ie6-9 */
     color: #fff;
 }
-
+.btn.orange-border:hover{
+    background: linear-gradient(270deg, rgba(13, 86, 31, 1) 0%, rgba(13, 86, 31, 1) 100%); /* w3c */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5a00', endColorstr='#ff3600',GradientType=1 ); /* ie6-9 */
+}
 /*
 # Accordion
 ----------------------------------*/
@@ -931,6 +934,8 @@ ul.tabs-nav .tab-nav.active {
 .cause-wrap figure img {
     display: block;
     width: 100%;
+    height:205px;
+    max-height:205px;
 }
 
 .featured-cause .cause-content-wrap {
@@ -938,7 +943,7 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .cause-content-wrap .entry-title a {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     color: #262626;
 }
@@ -991,7 +996,7 @@ ul.tabs-nav .tab-nav.active {
 .our-causes {
     position: relative;
     padding: 56px 0;
-    background: url("images/cause-bg.jpg") no-repeat center;
+    background: url("assets/Samburu-Tribe.jpg") no-repeat center;
     background-size: cover;
     z-index: 99;
 }
@@ -1047,7 +1052,7 @@ ul.tabs-nav .tab-nav.active {
 .our-causes .swiper-button-prev {
     width: 70px;
     height: 70px;
-    margin-top: -70px;
+    margin-top: 0px;
     border-radius: 50%;
     background: linear-gradient(270deg, rgba(145, 84, 30, 1) 0%, rgba(145, 84, 30, 1) 100%); /* w3c */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5a00', endColorstr='#ff3600',GradientType=1 ); /* ie6-9 */
@@ -1315,7 +1320,7 @@ ul.tabs-nav .tab-nav.active {
 
 .causes-page .highlighted-cause {
     padding: 46px 0 96px;
-    background: #262626;
+    background: #794d2f;
 }
 
 .causes-page .highlighted-cause .entry-title {
@@ -1338,6 +1343,7 @@ ul.tabs-nav .tab-nav.active {
 .causes-page .highlighted-cause img {
     width: 100%;
     margin-top: 60px;
+    max-height:490px;
 }
 
 @media screen and (max-width: 1200px) and (min-width: 992px) {
