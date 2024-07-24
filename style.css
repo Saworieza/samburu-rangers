@@ -632,6 +632,10 @@ ul.tabs-nav .tab-nav.active {
     color: #595858;
 }
 
+.counter-box img{
+    height:100px;
+}
+
 /*
 # Icon Box
 ----------------------------------*/
@@ -745,7 +749,7 @@ ul.tabs-nav .tab-nav.active {
 # Icon Boxes
 --------------------------------*/
 .home-page-icon-boxes {
-    padding: 96px 0;
+    padding: 56px 0;
 }
 
 /*
@@ -753,7 +757,7 @@ ul.tabs-nav .tab-nav.active {
 --------------------------------*/
 .home-page-welcome {
     position: relative;
-    padding: 96px 0;
+    padding: 56px 0;
     background: url("assets/PB0_4770.JPG") no-repeat center;
     background-size: cover;
     z-index: 99;
@@ -786,7 +790,7 @@ ul.tabs-nav .tab-nav.active {
     width: 64px;
     height: 4px;
     border-radius: 2px;
-    background: #ff5a00;
+    background: #794d2f;
 }
 
 .welcome-content .entry-content {
@@ -810,7 +814,7 @@ ul.tabs-nav .tab-nav.active {
 # Upcoming Events
 --------------------------------*/
 .home-page-events {
-    padding: 96px 0;
+    padding: 56px 0;
 }
 
 .section-heading .entry-title {
@@ -907,7 +911,7 @@ ul.tabs-nav .tab-nav.active {
 # Featured Cause
 --------------------------------*/
 .home-page-events {
-    padding: 96px 0;
+    padding: 56px 0;
 }
 
 .cause-wrap {
@@ -986,7 +990,7 @@ ul.tabs-nav .tab-nav.active {
 --------------------------------*/
 .our-causes {
     position: relative;
-    padding: 96px 0;
+    padding: 56px 0;
     background: url("images/cause-bg.jpg") no-repeat center;
     background-size: cover;
     z-index: 99;
@@ -1097,7 +1101,7 @@ ul.tabs-nav .tab-nav.active {
 # Home Milestone
 --------------------------------*/
 .home-page-limestone {
-    padding: 96px 0;
+    padding: 56px 0;
 }
 
 .home-page-limestone .section-heading .entry-title {
@@ -1156,7 +1160,8 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .about-page .welcome-wrap {
-    padding: 96px 0;
+    padding: 56px 0;
+    background: rgba(232, 237, 238, .8);
 }
 
 .about-page .welcome-content .entry-title {
@@ -1170,7 +1175,7 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .about-page .welcome-content .entry-content {
-    color: #929191;
+    color: #000;
 }
 
 .about-page .welcome-wrap img {
@@ -1179,8 +1184,8 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .about-stats {
-    padding: 96px 0;
-    background: #262626;
+    padding: 56px 0;
+    background: rgba(13, 86, 31,1);
 }
 
 .about-stats .circular-progress-bar .circle strong,
@@ -1258,7 +1263,7 @@ ul.tabs-nav .tab-nav.active {
 
 .help-us {
     padding: 70px 0 96px;
-    background: #ff3700;
+    background: #794d2f;
 }
 
 .help-us h2 {
@@ -1274,7 +1279,7 @@ ul.tabs-nav .tab-nav.active {
 
 .help-us .btn,
 .help-us .btn:hover {
-    border-color: #fff;
+    border-color: #ff3700;
     color: #fff;
 }
 
@@ -1286,7 +1291,7 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .causes-page .featured-cause {
- padding: 96px 0;
+ padding: 56px 0;
 }
 
 .causes-page .our-causes {
@@ -1522,7 +1527,7 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .portfolio-wrap {
-    padding: 96px 0;
+    padding: 56px 0;
 }
 
 .portfolio-wrap .mt-48 {
@@ -1575,7 +1580,7 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .news-wrap {
-    padding: 96px 0;
+    padding: 56px 0;
 }
 
 .news-content {
