@@ -618,7 +618,6 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .counter-box .start-counter {
-    margin-top: 10px;
     font-size: 48px;
     font-weight: 500;
     color: #262626;
@@ -630,7 +629,6 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .counter-box .entry-title {
-    margin-top: 16px;
     font-size: 14px;
     color: #595858;
 }
@@ -918,7 +916,7 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .cause-wrap {
-    margin-top: 50px;
+    margin-top: 10px;
 }
 
 .featured-cause .cause-wrap {
@@ -939,7 +937,23 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .featured-cause .cause-content-wrap {
-    width: calc(100% - 280px);
+    width: calc(100% - 200px);
+}
+.other-ways{
+    background: rgba(145, 84, 30, .8);
+}
+
+.donate-cash{
+    background: rgba(13, 86, 31, 1);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color:white;
+}
+.donate-cash:hover{
+    background: rgba(145, 84, 30, .8);
+}
+.donate-cash, .donate-cash .start-counter, .donate-cash .entry-title{
+    color: white;
 }
 
 .cause-content-wrap .entry-title a {
@@ -975,7 +989,7 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .cause-content-wrap .entry-content {
-    margin-top: 28px;
+    margin-top: 2px;
     margin-bottom: 0;
     font-size: 14px;
     color: #929191;
@@ -1878,6 +1892,7 @@ ul.tabs-nav .tab-nav.active {
     border: 1px solid #e0e0e0;
     border-top: 0;
 }
+
 
 /*--------------------------------------------------------------
 # Contact Page
