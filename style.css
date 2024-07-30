@@ -1183,6 +1183,8 @@ ul.tabs-nav .tab-nav.active {
     background: rgba(232, 237, 238, .8);
 }
 
+
+
 .about-page .welcome-content .entry-title {
     color: #262626;
 }
@@ -1590,6 +1592,64 @@ ul.tabs-nav .tab-nav.active {
     font-size: 14px;
     font-weight: 500;
     color: #ff5a00;
+}
+
+.portfolio .welcome-wrap {
+    padding: 56px 0;
+    background: rgba(145, 84, 30, 1);
+    color: #fff;
+/*    font-family: "Mansalva", cursive !important;*/
+}
+
+.feature-29012 .number {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 80px;
+    flex: 0 0 80px;
+    height: 80px;
+    border: 2px solid #fff;
+    position: relative;
+    display: block;
+    font-size: 1.5rem;
+    color: #fff;
+    margin-right: 2rem;
+}
+
+.feature-29012 .number > span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.feature-29012 h3 {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.feature-29012 p {
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.mb-5 {
+    margin-bottom: 3rem !important;
+}
+
+.text-span{
+    font-size: 16px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 70%;
+    margin-left: 10%;
+    margin-bottom: 70px;
+}
+.text-span .text-white{
+    text-align: center;
 }
 
 /*--------------------------------------------------------------
