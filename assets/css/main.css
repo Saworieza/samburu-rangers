@@ -39,7 +39,7 @@ body {
  h3, h4, h5 {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
-  color: #18181c;
+  color: #35600c;
   line-height: 1.3;
 }
 
@@ -108,7 +108,7 @@ ul.nosyely_list {
   height: 2px;
   width: 30px;
   content: "";
-  background-color: #99896e;
+  background-color: #794d2f;
   position: absolute;
   left: 2px;
   bottom: -10px;
@@ -149,7 +149,7 @@ img {
 }
 .loader .loader-inner {
   position: absolute;
-  border: 2px solid #99896e;
+  border: 2px solid #794d2f;
   border-radius: 50%;
   width: 40px;
   height: 40px;
@@ -227,7 +227,7 @@ img {
   background-color: #fff;
   z-index: 9999;
   width: 60px;
-  color: #99896e;
+  color: #794d2f;
   height: 60px;
   border-radius: 50px;
   -webkit-box-shadow: 0 0 42px rgba(0, 0, 0, 0.1);
@@ -236,11 +236,11 @@ img {
 .menu-btn:hover {
   -webkit-box-shadow: 0 0 2px rgba(0, 0, 0, 0.09);
           box-shadow: 0 0 2px rgba(0, 0, 0, 0.09);
-  color: #18181c;
+  color: #35600c;
 }
 
 .menu_block {
-  background-color: #18181c;
+  background-color: #35600c;
   min-height: 100vh;
   padding: 0;
 }
@@ -253,7 +253,7 @@ img {
 }
 .menu_block .side_title {
   padding-left: 50px;
-  color: #99896e;
+  color: #794d2f;
   text-transform: capitalize;
   font-size: 15px;
   margin-bottom: 25px;
@@ -270,11 +270,11 @@ img {
 }
 .menu_block .copy_right {
   padding: 25px;
-  color: #99896e;
+  color: #794d2f;
   margin-top: 50px;
 }
 .menu_block .copy_right p {
-  color: #99896e;
+  color: #794d2f;
   font-size: 12px;
   text-align: center;
   font-weight: 500;
@@ -299,13 +299,13 @@ img {
   color: #ffffff;
 }
 .menu_nav li a:hover {
-  background-color: #99896e;
+  background-color: #794d2f;
 }
 .menu_nav li a:focus {
-  background-color: #99896e;
+  background-color: #794d2f;
 }
 .menu_nav li.active a {
-  background-color: #99896e;
+  background-color: #794d2f;
   color: #ffffff;
 }
 
@@ -325,11 +325,11 @@ img {
   color: #ffffff;
 }
 .filter_nav li a:hover {
-  background-color: #99896e;
+  background-color: #794d2f;
   color: #ffffff;
 }
 .filter_nav li.active a {
-  background-color: #99896e;
+  background-color: #794d2f;
   color: #ffffff;
 }
 
@@ -345,7 +345,7 @@ img {
 .social_menu li a {
   padding: 7px;
   font-size: 20px;
-  color: #99896e;
+  color: #794d2f;
 }
 .social_menu li a:hover {
   color: #ffffff;
@@ -435,12 +435,12 @@ img {
   border: none;
   cursor: pointer;
   letter-spacing: 1px;
-  background-color: #18181c;
+  background-color: #35600c;
   -webkit-transition: all 300ms ease-in-out;
   transition: all 300ms ease-in-out;
 }
 .btn:hover {
-  color: #18181c;
+  color: #35600c;
   background-color: #fff;
   -webkit-transition: all 300ms ease-in-out;
   transition: all 300ms ease-in-out;
@@ -456,29 +456,29 @@ img {
 }
 
 .btn-primary {
-  background-color: #99896e;
-  border: solid 1px #99896e;
+  background-color: #794d2f;
+  border: solid 1px #794d2f;
   color: #ffffff;
   -webkit-transition: all 300ms ease-in-out;
   transition: all 300ms ease-in-out;
 }
 .btn-primary:hover {
-  background-color: #18181c;
+  background-color: #35600c;
   color: #ffffff;
-  border: solid 1px #18181c;
+  border: solid 1px #35600c;
   -webkit-transition: all 300ms ease-in-out;
   transition: all 300ms ease-in-out;
 }
 
 .btn-primary-outline {
   background-color: transparent;
-  border: solid 1px #99896e;
-  color: #99896e;
+  border: solid 1px #794d2f;
+  color: #794d2f;
   -webkit-transition: all 300ms ease-in-out;
   transition: all 300ms ease-in-out;
 }
 .btn-primary-outline:hover {
-  background-color: #99896e;
+  background-color: #794d2f;
   color: #ffffff;
   -webkit-transition: all 300ms ease-in-out;
   transition: all 300ms ease-in-out;
@@ -486,13 +486,13 @@ img {
 
 .btn-dark {
   background-color: #333333;
-  border: solid 1px #18181c;
+  border: solid 1px #35600c;
   color: #ffffff;
   -webkit-transition: all 300ms ease-in-out;
   transition: all 300ms ease-in-out;
 }
 .btn-dark:hover {
-  color: #18181c;
+  color: #35600c;
   border: solid 1px #ffffff;
   background-color: #ffffff;
   -webkit-transition: all 300ms ease-in-out;
@@ -512,7 +512,7 @@ img {
 }
 .icon_box_one i {
   font-size: 56px;
-  color: #99896e;
+  color: #794d2f;
   vertical-align: middle;
   margin: 0 auto;
   border-radius: 4px;
@@ -677,13 +677,13 @@ img {
   margin: 25px 0;
 }
 .counter_box .divider {
-  border: solid 1px #99896e;
+  border: solid 1px #794d2f;
   width: 40px;
   margin-bottom: 15px;
 }
 .counter_box .counter {
   font-size: 36px;
-  color: #99896e;
+  color: #794d2f;
   font-weight: 400;
   display: inline-block;
   padding: 0 3px;
@@ -694,7 +694,7 @@ img {
   text-transform: capitalize;
   margin: 0;
   font-size: 14px;
-  color: #18181c;
+  color: #35600c;
 }
 
 /*  ----------------------------------------------------
@@ -705,7 +705,7 @@ img {
 9 testimonial
 -------------------------------------------------------- */
 .testimonial_carousel {
-  border: solid 2px #99896e;
+  border: solid 2px #794d2f;
   padding: 25px;
   position: relative;
   margin: 15px 0;
@@ -742,13 +742,13 @@ img {
   text-transform: capitalize;
 }
 .testimonial_carousel .testimonial_author p span {
-  color: #99896e;
+  color: #794d2f;
 }
 .testimonial_carousel:before {
   content: "\f347";
   font-family: "Ionicons";
   position: absolute;
-  color: #18181c;
+  color: #35600c;
   top: -10px;
   background-color: #ffffff;
   padding: 0 35px;
@@ -812,7 +812,7 @@ img {
   background-color: #ffffff;
   width: 60px;
   text-align: center;
-  border: solid 1px #99896e;
+  border: solid 1px #794d2f;
   position: absolute;
   top: -15px;
   left: 15px;
@@ -821,7 +821,7 @@ img {
   line-height: 0.7;
   padding: 15px 5px;
   word-break: break-word;
-  color: #18181c;
+  color: #35600c;
 }
 .blog_card .blog_card_top .blog_date span {
   font-size: 12px;
@@ -839,7 +839,7 @@ img {
   margin-bottom: 15px;
   display: block;
   text-transform: capitalize;
-  color: #18181c;
+  color: #35600c;
 }
 .blog_card .blog_card_bottom .meta_data {
   font-size: 13px;
@@ -848,10 +848,10 @@ img {
 }
 .blog_card .blog_card_bottom .meta_data span {
   padding: 0 5px;
-  border-right: 1px #99896e solid;
+  border-right: 1px #794d2f solid;
 }
 .blog_card .blog_card_bottom .meta_data span:last-child {
-  border-right: 0 #99896e solid;
+  border-right: 0 #794d2f solid;
 }
 
 .widget {
@@ -860,7 +860,7 @@ img {
 .widget .widget-title {
   margin-bottom: 25px;
   font-size: 18px;
-  color: #18181c;
+  color: #35600c;
   text-transform: capitalize;
 }
 .widget ul {
@@ -875,7 +875,7 @@ img {
 }
 .widget_search input {
   border: 0;
-  border-bottom: solid 1px #99896e;
+  border-bottom: solid 1px #794d2f;
   padding: 12px;
   width: 100%;
   outline: 0;
@@ -897,7 +897,7 @@ img {
   text-transform: capitalize;
 }
 .widget_categories ul li a:hover {
-  color: #99896e;
+  color: #794d2f;
 }
 
 .widget_instagram {
@@ -935,7 +935,7 @@ img {
 }
 .widget_tags ul li a:hover {
   background-color: #ffffff;
-  border: solid 1px #99896e;
+  border: solid 1px #794d2f;
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
 }
@@ -968,7 +968,7 @@ img {
 }
 .form-control:focus {
   background-color: #ffffff;
-  border-color: #99896e;
+  border-color: #794d2f;
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
 }
@@ -1000,7 +1000,7 @@ textarea.form-control {
   height: 4px;
   margin-bottom: 5px;
   overflow: hidden;
-  background: #99896e;
+  background: #794d2f;
   /* The Fallback */
   background: rgba(153, 137, 110, 0.2);
   border-radius: 1px;
@@ -1012,11 +1012,11 @@ textarea.form-control {
   font-size: 16px;
   line-height: 16px;
   text-align: center;
-  background-color: #99896e;
+  background-color: #794d2f;
 }
 
 .accordion_card {
-  border: solid 1px #99896e;
+  border: solid 1px #794d2f;
   border-radius: 0;
   margin: 15px 0;
 }
@@ -1031,15 +1031,15 @@ textarea.form-control {
 }
 .accordion_card .card-header h5 a {
   background-color: #ffffff;
-  color: #99896e;
+  color: #794d2f;
   display: block;
   padding: 15px;
-  border-bottom: solid 1px #99896e;
+  border-bottom: solid 1px #794d2f;
 }
 .accordion_card .card-header h5 a.collapsed {
-  background-color: #99896e;
+  background-color: #794d2f;
   color: #ffffff;
-  border-bottom: solid 0 #99896e;
+  border-bottom: solid 0 #794d2f;
 }
 .accordion_card .card-body {
   font-size: 16px;
