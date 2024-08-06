@@ -12,6 +12,14 @@ img {
     vertical-align: baseline;
 }
 
+.ours{
+    background: rgba(13, 86, 31,.72);
+}
+.ours:hover{
+    background: white;
+    cursor: pointer;
+}
+
 /*--------------------------------------------------------------
 # Links
 --------------------------------------------------------------*/
