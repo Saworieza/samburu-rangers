@@ -815,6 +815,8 @@ ul.tabs-nav .tab-nav.active {
     font-size: 14px;
     line-height: 2;
     color: #ffffff;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .home-page-welcome img {
