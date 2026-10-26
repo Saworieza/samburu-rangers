@@ -2236,3 +2236,8 @@ ul.tabs-nav .tab-nav.active {
     background: #91541e;
     text-align: center;
 }
+
+.m-0 {
+    text-align: justify;
+    text-justify: ;
+}
